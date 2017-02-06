@@ -1,0 +1,5 @@
+C:\Users\gabriel.silva\documents\visual studio 2012\Projects\ManutencaoArquivos\ManutencaoArquivos\bin\Release\ManutencaoArquivos.exe.config
+C:\Users\gabriel.silva\documents\visual studio 2012\Projects\ManutencaoArquivos\ManutencaoArquivos\bin\Release\ManutencaoArquivos.exe
+C:\Users\gabriel.silva\documents\visual studio 2012\Projects\ManutencaoArquivos\ManutencaoArquivos\bin\Release\ManutencaoArquivos.pdb
+C:\Users\gabriel.silva\documents\visual studio 2012\Projects\ManutencaoArquivos\ManutencaoArquivos\obj\Release\ManutencaoArquivos.exe
+C:\Users\gabriel.silva\documents\visual studio 2012\Projects\ManutencaoArquivos\ManutencaoArquivos\obj\Release\ManutencaoArquivos.pdb

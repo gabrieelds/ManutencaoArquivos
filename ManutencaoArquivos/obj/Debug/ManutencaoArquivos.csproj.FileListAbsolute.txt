@@ -1,0 +1,6 @@
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\ManutencaoArquivos\ManutencaoArquivos\bin\Debug\ManutencaoArquivos.exe.config
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\ManutencaoArquivos\ManutencaoArquivos\bin\Debug\ManutencaoArquivos.exe
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\ManutencaoArquivos\ManutencaoArquivos\bin\Debug\ManutencaoArquivos.pdb
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\ManutencaoArquivos\ManutencaoArquivos\obj\Debug\ManutencaoArquivos.csprojResolveAssemblyReference.cache
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\ManutencaoArquivos\ManutencaoArquivos\obj\Debug\ManutencaoArquivos.exe
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\ManutencaoArquivos\ManutencaoArquivos\obj\Debug\ManutencaoArquivos.pdb

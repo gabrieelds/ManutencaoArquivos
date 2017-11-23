@@ -27,6 +27,7 @@ namespace ManutencaoArquivos {
                     dir.cleanFolder(p, "*.zip");
                     dir.cleanFolder(p, "*.log");
                     dir.cleanFolder(p, "*.csv");
+                    /*teste do git*/
                 }
             }
         }

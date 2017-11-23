@@ -20,7 +20,7 @@ namespace ManutencaoArquivos {
                 System.IO.Directory.CreateDirectory(bkpPath);
             }
         }
-
+        /*teste do git*/
         //Move os arquivos do fileOriginal e log para o novo diretório
         public void moveFiles(string path, string bkpPath){
             foreach(string s in this.fileOriginal){
